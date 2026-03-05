@@ -47,6 +47,7 @@ The goal is to provide **clean, efficient, and well-tested implementations** of 
 - state machine
 
 ---
+```bash
 ## Project Structure
 rust_common
 │
@@ -75,4 +76,4 @@ rust_common
 │   │   └── range.rs
 │   │
 │   ├── io
----
+```
