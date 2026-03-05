@@ -30,7 +30,7 @@ The goal is to provide **clean, efficient, and well-tested implementations** of 
 - 1D LookUp Table interpolation
 - 2D LookUp Table interpolation
 -  Possible errors handling for interpolation
--  
+  
 #### Interpolation alghorithm used:
 - Interpolation method: Linear Point-Slop
 - Extrapolation method: Clip
@@ -47,7 +47,6 @@ The goal is to provide **clean, efficient, and well-tested implementations** of 
 - state machine
 
 ---
-
 ## Project Structure
 rust_common
 │
@@ -76,3 +75,4 @@ rust_common
 │   │   └── range.rs
 │   │
 │   ├── io
+---
